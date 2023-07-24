@@ -1,0 +1,55 @@
+ [
+      {
+        "id": "1",
+        "picture": "car1.jpg",
+        "name": "Car A",
+        "price": "$25,000",
+        "rating": 4.5,
+        "viewPicture": "https://i.ibb.co/Sn1qW0d/car-college-1.jpg"
+      },
+      {
+        "id": "2",
+        "picture": "car2.jpg",
+        "name": "Car B",
+        "price": "$30,000",
+        "rating": 4.8,
+        "viewPicture": "https://i.ibb.co/Hp5vyFx/car-college-2.jpg"        
+      },
+      {
+        "id": "3",
+        "picture": "car3.jpg",
+        "name": "Car C",
+        "price": "$28,500",
+        "rating": 4.2,
+        "viewPicture": "https://i.ibb.co/qrcTrJT/car-college-3.jpg"
+      },
+      {
+        "id": "4",
+        "picture": "car4.jpg",
+        "name": "Car D",
+        "price": "$32,000",
+        "rating": 4.7,
+        "viewPicture": "https://i.ibb.co/1RcjQFZ/car-college-4.jpg"
+      },
+      {
+        "id": "5",
+        "picture": "car5.jpg",
+        "name": "Car E",
+        "price": "$29,800",
+        "rating": 4.6,
+        "viewPicture": "https://i.ibb.co/h77rCfv/car-college-5.jpg"
+      },
+      {
+        "id": "6",
+        "picture": "car6.jpg",
+        "name": "Car F",
+        "price": "$27,500",
+        "rating": 4.3,
+        "viewPicture": "https://i.ibb.co/pdxhDkY/car-college-6.jpg"
+      }
+    ]
+     
+    
+    
+  
+  

@@ -1,0 +1,37 @@
+.header{
+
+    color: black;
+}
+
+.user-info {
+    position: relative;
+  }
+  
+  .user-name {
+    position: absolute;
+    top: -2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background-image: linear-gradient(to bottom, #a0ebf8, #35D3F0);
+    border: 1px solid #cccccc;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+  }
+  
+  .user-info:hover .user-name {
+    opacity: 1;
+  }
+
+  nav a {
+
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 16px;
+    color: #35D3F0;
+  } 
+
+  
